@@ -1,4 +1,4 @@
-#define F_CPU 16000000UL
+
 int main()
 {
 	int i,b=0,j=0;  //Declaring and Initilizing Variables
