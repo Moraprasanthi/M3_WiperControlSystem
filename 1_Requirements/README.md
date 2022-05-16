@@ -27,20 +27,6 @@ with bad weather, dangerous road conditions and fatigue. The Rain Sensor reduced
 driving more comfortable. Trailing a wet car is no longer a nuisance as detection of even 0.005 milliliters of water is
 possible.
 
-## SWOT ANALYSIS
-
-### STRENGTHS
-
-
-### WEAKNESS
-
-
-### OPPORTUNITIES
-
-
-### THREATS
-
-
 ## 4W and 1H
 
 ### who
@@ -61,17 +47,17 @@ Vehicles, Cars
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
-| HLR1 | User shall be able to sense the temperature | Implemented |
-| HLR2 | User shall be able to compare the temperature | Implemented |
-| HLR3 | User shall be able to sense and give signal to the system | Implemented |
-| HLR4 | User shall be able to control the temperature of the system | Implemented |
+| HLR1 | User shall be able to Red LED on | Implemented |
+| HLR2 | User shall be able to Blue, Green and Orange  LEDs are on at a time with set of frequencies| Implemented |
+| HLR3 | User shall be able to wiper is on | Implemented |
+| HLR4 | User shall be able to Red LED off| Implemented |
 
 ### Low Level Requirements
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
-| LLR1 | Temperature should be implemented on the screen | Implemented |
-| LLR2 | If there is no person then the system should be turn off | Implemented |
+| LLR1 | First the red LEd is ON  | Implemented |
+| LLR2 | The wiper is on after all LEDS are in ON condition | Implemented |
 
 
 
